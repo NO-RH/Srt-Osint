@@ -809,7 +809,7 @@ async def main():
  |____/|_| \_\|_|    \___/|____/___|_| \_| |_| 
         """
         print(f"{CY}{logo}{W}")
-        print(f"        BY RH, STREEX AND TZ")
+        print(f"        BY RH")
         print(f"        Digite {R}'88'{W} para desligar o Osint.\n")
 
         if usos >= 3:
