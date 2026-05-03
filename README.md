@@ -14,4 +14,5 @@ Para instalar o SRT Osint você deve usar:
 git clone https://github.com/NO-RH/Srt-Osint
 
 cd Srt-Osint
+
 python3 SRT.py
